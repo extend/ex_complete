@@ -1,0 +1,3 @@
+ex_complete is an application aiming to improve Erlang shell completion.
+To use it, run `erl -s ex_complete_app`.
+Copyright (c) 2011, Dev:Extend
